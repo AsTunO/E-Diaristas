@@ -1,0 +1,3 @@
+Não Existe : 12345678
+Existe Sem Cadastro : 12506060
+Existe Com Cadastro : 01001000 (SP) 
